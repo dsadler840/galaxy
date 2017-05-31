@@ -1,2 +1,17 @@
 # galaxy
 Rssfeed
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>Galaxy</title>
+    <item>
+      <title>Welcome to the Galaxy</title>
+    </item>
+    <item>
+      <title>Special thanks to kisakul</title>
+    </item>
+    <item>
+      <title>Text weird stuff to 8283081873</title>
+    </item>
+  </channel>
+</rss>
